@@ -3,4 +3,4 @@ Podcasts
 
 podcasts / show notes / additional materials
 
-noisebit.ru
+[noisebit.ru](http://noisebit.podster.fm/)
