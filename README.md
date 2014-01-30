@@ -1,4 +1,4 @@
 Podcasts
 ========
 
-podcasts / show notes / etc.
+podcasts / show notes / additional materials
