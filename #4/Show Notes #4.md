@@ -4,11 +4,11 @@
 
 
 ###Участники:
-Александр Матросов [(@matrosov)](http://twitter.com/matrosov),
-Дмитрий Недоспасов [(@nedos)](http://twitter.com/nedos),
-Олег Купреев [(@090h)](http://twitter.com/090h),
-Александр Бажанюк [(@ABazhaniuk)](http://twitter.com/ABazhaniuk),
-Дмитрий Олексюк [(@d_olex)](http://twitter.com/d_olex)
+Александр Матросов ([@matrosov)](http://twitter.com/matrosov)),
+Дмитрий Недоспасов ([@nedos](http://twitter.com/nedos)),
+Олег Купреев ([@090h](http://twitter.com/090h)),
+Александр Бажанюк ([@ABazhaniuk](http://twitter.com/ABazhaniuk)),
+Дмитрий Олексюк ([@d_olex](http://twitter.com/d_olex))
 
 ###Вопросы:
 ####Intro
@@ -109,11 +109,11 @@
 
 - Что такое IC security в рельных примерах? Что ждать дальше в этой области?
 
-	Olivier Thomas [@reivilo_t](http://twitter.com/reivilo_t) - [Hardware Rever-engineering Tools (REC0N 2013)](http://recon.cx/2013/schedule/events/44.html)
+	Olivier Thomas ([@reivilo_t](http://twitter.com/reivilo_t)) - [Hardware Rever-engineering Tools (REC0N 2013)](http://recon.cx/2013/schedule/events/44.html)
 	
-	Chris Tarnovsky [@semiconduktor](https://twitter.com/semiconduktor) - [Inducing Momentary Faults Within Secure Smartcards (DEF CON 16)] (http://youtu.be/UMPfgnQPjpk)
+	Chris Tarnovsky ([@semiconduktor](https://twitter.com/semiconduktor)) - [Inducing Momentary Faults Within Secure Smartcards (DEF CON 16)] (http://youtu.be/UMPfgnQPjpk)
 
-	Dmitry Nedospasov [@nedos](https://twitter.com/nedos) - [Security of the IC Backside (30c3)](http://youtu.be/wmv7tu7FSW0)
+	Dmitry Nedospasov ([@nedos](https://twitter.com/nedos)) - [Security of the IC Backside (30c3)](http://youtu.be/wmv7tu7FSW0)
 	
 	[Murdoch’s Pirates](http://amzn.com/B009VA1NVU)
 
