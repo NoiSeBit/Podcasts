@@ -16,7 +16,7 @@
 * [WP: XBMC](http://ru.wikipedia.org/wiki/XBMC)
 * [Xecuter Модчипы](http://team-xecuter.com)
 
-##### [TUB - Security in Telecommunications]http://www.isti.tu-berlin.de/security_in_telecommunications/)
+##### [TUB - Security in Telecommunications](http://www.isti.tu-berlin.de/security_in_telecommunications/)
 
 ##### [Chaos Communications Congress](http://ru.wikipedia.org/wiki/Всемирный_конгресс_хакеров)
 * [30c3](http://events.ccc.de/category/30c3/)
