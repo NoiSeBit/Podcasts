@@ -4,7 +4,7 @@
 
 
 ### Участники:
-Александр Матросов ([@matrosov)](http://twitter.com/matrosov)),
+Александр Матросов ([@matrosov](http://twitter.com/matrosov)),
 Денис Гомаюнов ([@jamadharma](https://twitter.com/jamadharma)),
 Дмитрий Недоспасов ([@nedos](https://twitter.com/nedos)),
 Сергей Братус ([@sergeybratus](https://twitter.com/sergeybratus)),
@@ -14,5 +14,5 @@
 
 ## Полезные курсы зарубежных университетов:
 ### HA­CKER­PRAK­TI­KUM (Ruhr-Universität Bochum)
-[@HackPra](https://twitter.com/HackPra)
-[Архив лекций](http://www.nds.rub.de/teaching/hackpra/)
+ - [@HackPra](https://twitter.com/HackPra)
+ - [Архив лекций](http://www.nds.rub.de/teaching/hackpra/)
