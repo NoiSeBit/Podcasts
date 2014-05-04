@@ -18,7 +18,7 @@
  - [Архив лекций](http://www.nds.rub.de/teaching/hackpra/)
 
 ## Литература
-[Matt Bishop. Computer Security: Art and Sciense](http://nob.cs.ucdavis.edu/book/book-aands/)
+[Matt Bishop. Computer Security: Art and Science](http://nob.cs.ucdavis.edu/book/book-aands/)
 [Matt Bishop. Introduction to Computer Security](http://nob.cs.ucdavis.edu/book/book-intro/)
 
 ## Университеты с факультетами/специальностями в области ИБ
