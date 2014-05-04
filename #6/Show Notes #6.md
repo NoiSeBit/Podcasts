@@ -17,6 +17,10 @@
  - [@HackPra](https://twitter.com/HackPra)
  - [Архив лекций](http://www.nds.rub.de/teaching/hackpra/)
 
+## Литература
+[Matt Bishop. Computer Security: Art and Sciense](http://nob.cs.ucdavis.edu/book/book-aands/)
+[Matt Bishop. Introduction to Computer Security](http://nob.cs.ucdavis.edu/book/book-intro/)
+
 ## Университеты с факультетами/специальностями в области ИБ
 ### Национальный исследовательский ядерный университет «МИФИ»
 [Факультет кибернетики и информационной безопасности (КИБ)](http://mephi.ru/about/faculty/Information_Security_Faculty/)
