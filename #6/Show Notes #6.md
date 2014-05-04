@@ -18,8 +18,9 @@
  - [Архив лекций](http://www.nds.rub.de/teaching/hackpra/)
 
 ## Литература
-[Matt Bishop. Computer Security: Art and Science](http://nob.cs.ucdavis.edu/book/book-aands/)
-[Matt Bishop. Introduction to Computer Security](http://nob.cs.ucdavis.edu/book/book-intro/)
+- [Matt Bishop. Computer Security: Art and Science](http://nob.cs.ucdavis.edu/book/book-aands/)
+- [Matt Bishop. Introduction to Computer Security](http://nob.cs.ucdavis.edu/book/book-intro/)
+- [Kevin R. Fall, W. Richard Stevens. TCP/IP Illustrated, Volume 1: The Protocols (2nd edition)](http://www.amazon.com/TCP-Illustrated-Volume-Addison-Wesley-Professional/dp/0321336313/ref=pd_sim_b_8?ie=UTF8&refRID=0ZFEHB43F6Q7QWH4MQXC)]
 
 ## Университеты с факультетами/специальностями в области ИБ
 ### Национальный исследовательский ядерный университет «МИФИ»
