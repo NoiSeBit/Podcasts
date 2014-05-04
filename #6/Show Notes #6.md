@@ -16,3 +16,7 @@
 ### HA­CKER­PRAK­TI­KUM (Ruhr-Universität Bochum)
  - [@HackPra](https://twitter.com/HackPra)
  - [Архив лекций](http://www.nds.rub.de/teaching/hackpra/)
+
+## Университеты с факультетами/специальностями в области ИБ
+### Национальный исследовательский ядерный университет «МИФИ»
+[Факультет кибернетики и информационной безопасности (КИБ)](http://mephi.ru/about/faculty/Information_Security_Faculty/)
