@@ -13,21 +13,21 @@
 
 
 ###Инструменты для дампа SPI-flash памяти
-[Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate)
-[GoodFET](http://goodfet.sourceforge.net)
-[DEDIPROG](http://www.dediprog.com/pd)
+* [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate)
+* [GoodFET](http://goodfet.sourceforge.net)
+* [DEDIPROG](http://www.dediprog.com/pd)
 
 ###Софт для дампа SPI-flash
-[CHIPSEC](https://github.com/chipsec/chipsec/blob/ac2ca7264f107c7b15ea8480db9c0e471dffd610/source/tool/chipsec/utilcmd/spi_cmd.py)
-[FlashROM](http://flashrom.org/Flashrom)
+* [CHIPSEC](https://github.com/chipsec/chipsec/blob/ac2ca7264f107c7b15ea8480db9c0e471dffd610/source/tool/chipsec/utilcmd/spi_cmd.py)
+* [FlashROM](http://flashrom.org/Flashrom)
 
 ### Инстрыменты для реверсинга прошивок
-[Binwalk](http://binwalk.org/)
+* [Binwalk](http://binwalk.org/)
 
 
 ### Инстрыменты для реверсинга BIOS/UEFI
-[CHIPSEC](https://github.com/chipsec/chipsec)
-[UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser)
+* [CHIPSEC](https://github.com/chipsec/chipsec)
+* [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser)
 
 ### Уязвимости UEFI и атаки на SecureBoot
 
