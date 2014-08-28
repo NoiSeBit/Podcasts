@@ -30,4 +30,9 @@
 * [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser)
 
 ### Уязвимости UEFI и атаки на SecureBoot
+* [Summary of Attacks Against BIOS and Secure Boot](https://www.defcon.org/images/defcon-22/dc-22-presentations/Bulygin-Bazhaniul-Furtak-Loucaides/DEFCON-22-Bulygin-Bazhaniul-Furtak-Loucaides-Summary-of-attacks-against-BIOS.pdf)
+* [Extreme Privilege Escalation On Windows 8/UEFI Systems](https://www.defcon.org/images/defcon-22/dc-22-presentations/Kallenberg/DEFCON-22-Corey-Kallenberg-Extreme-Privilage-Escalation-WP-UPDATED.pdf)
+
+### Атаки на через USB
+* [USB for all!](https://www.defcon.org/images/defcon-22/dc-22-presentations/Michael-Shkatov/DEFCON-22-Jesse-Michael-Mickey-Shkatov-USB-for-All!!-UPDATED.pdf)
 
