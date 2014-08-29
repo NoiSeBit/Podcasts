@@ -29,7 +29,7 @@
 * [CHIPSEC](https://github.com/chipsec/chipsec)
 * [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser) - Прим. от @d_olex: много багов и плохой код!
 * [UEFITool](https://github.com/LongSoft/UEFITool) - Кросс-платформенная (Win/Linux/Mac) GUI программа для разбора и модификации UEFI образов. 
-* [Flash Image Tool](https://dl.dropboxusercontent.com/u/22903093/Intel%20Flash%20Image%20Tool.zip) - Инструмент от Intel для конфигурирования различных параметров UEFI Flash Image, в архиве версии для чипсетов 7, 8 и 9 серий.
+* [Flash Image Tool](https://dl.dropboxusercontent.com/u/22903093/Intel%20Flash%20Image%20Tool.zip) - Инструмент от Intel для конфигурирования различных параметров UEFI Flash Image, в архиве версии для чипсетов 6, 7 и 8 серий.
 * [EFI scripts for IDA Pro](https://github.com/snare/ida-efiutils) - Дополнения для IDA облегчающие реверс-инжиниринг UEFI бинарников.
 * [Copernicus](http://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/copernicus-question-your-assumptions-about) - Инструмент от MITRE позволяющий (в теории) обнаруживать зловредные модификации BIOS.
 
