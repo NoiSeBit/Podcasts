@@ -27,7 +27,8 @@
 
 ### Инстрыменты для реверсинга BIOS/UEFI
 * [CHIPSEC](https://github.com/chipsec/chipsec)
-* [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser)
+* [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser) - Warning! Много багов и плохой код!
+* [UEFITool](https://github.com/LongSoft/UEFITool) - Кросс-платформенная (Win/Linux/Mac) GUI программа для разбора и модификации UEFI образов. 
 
 ### Уязвимости UEFI и атаки на SecureBoot
 * [Summary of Attacks Against BIOS and Secure Boot](https://www.defcon.org/images/defcon-22/dc-22-presentations/Bulygin-Bazhaniul-Furtak-Loucaides/DEFCON-22-Bulygin-Bazhaniul-Furtak-Loucaides-Summary-of-attacks-against-BIOS.pdf)
