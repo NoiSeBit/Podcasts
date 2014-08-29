@@ -21,11 +21,11 @@
 * [CHIPSEC](https://github.com/chipsec/chipsec/blob/ac2ca7264f107c7b15ea8480db9c0e471dffd610/source/tool/chipsec/utilcmd/spi_cmd.py)
 * [FlashROM](http://flashrom.org/Flashrom)
 
-### Инстрыменты для реверсинга прошивок
+### Инструменты для реверсинга прошивок
 * [Binwalk](http://binwalk.org/)
 
 
-### Инстрыменты для реверсинга BIOS/UEFI
+### Инструменты для реверсинга BIOS/UEFI
 * [CHIPSEC](https://github.com/chipsec/chipsec)
 * [UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser) - Прим. от @d_olex: много багов и плохой код!
 * [UEFITool](https://github.com/LongSoft/UEFITool) - Кросс-платформенная (Win/Linux/Mac) GUI программа для разбора и модификации UEFI образов. 
