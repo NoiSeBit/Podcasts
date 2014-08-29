@@ -25,9 +25,11 @@
 * [Binwalk](http://binwalk.org/)
 
 ### Инструменты разработчика для BIOS/UEFI
+* [Unified Extensible Firmware Specifications](http://www.uefi.org/specifications) - Спецификации на UEFI.
 * [TianoCore](http://tianocore.github.io/) - OpenSource реализация UEFI и SDK.
 * [EFI Toolkit](https://github.com/tianocore/tianocore.github.io/wiki/EFI-Toolkit) - Более старый, но при этом более простой в использовании UEFI SDK.
 * [OVMF](http://tianocore.sourceforge.net/wiki/OVMF) - OpenSource реализация UEFI для виртуальных машин разрабатываемая в рамках TianoCore.
+* [EFI Shell](https://github.com/tianocore/tianocore.github.io/wiki/Efi-shell) - Command line оболочка для UEFI.
 * [Intel® AMT Software Development Kit](https://software.intel.com/en-us/articles/download-the-latest-intel-amt-software-development-kit-sdk)
 * [Intel® Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - Development board от Intel, самый дешевый способ отлаживать UEFI на живом железе с использованием JTAG.
 * [ARIUM - Intel and ARM JTAG Debuggers](https://www.arium.com/) - Более дорогой и продвинутый способ отлаживать UEFI на живом железе с использованием JTAG :)
