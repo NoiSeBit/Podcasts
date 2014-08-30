@@ -49,3 +49,6 @@
 ### Атаки на через USB
 * [USB for all!](https://www.defcon.org/images/defcon-22/dc-22-presentations/Michael-Shkatov/DEFCON-22-Jesse-Michael-Mickey-Shkatov-USB-for-All!!-UPDATED.pdf)
 
+### Foscam камеры и их клоны
+* [GetMeCamTool](https://github.com/artemharutyunyan/getmecamtool) - Утилиты для pwnage и внедрения backdoor-a в удаленную камеру, сборщик/парсер прошивок для Foscam, сканер DynDNS сервиса Foscam
+* [Заметки о Foscam камерах, уязвимостях в самих камерах и в DynNDS предоставляемый Foscam-ом](http://blog.shekyan.com/ip-camera/)
