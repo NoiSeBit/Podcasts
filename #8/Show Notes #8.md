@@ -48,6 +48,14 @@
 
 ### Атаки на через USB
 * [USB for all!](https://www.defcon.org/images/defcon-22/dc-22-presentations/Michael-Shkatov/DEFCON-22-Jesse-Michael-Mickey-Shkatov-USB-for-All!!-UPDATED.pdf)
+* [Lessons learned from 50 bugs: Common USB driver vulnerabilities](https://www.nccgroup.com/media/190706/usb_driver_vulnerabilities_whitepaper_january_2013.pdf)
+* [USB Fuzzing for the Masses](https://labs.mwrinfosecurity.com/blog/2011/07/14/usb-fuzzing-for-the-masses/)
+* [Emulating USB Devices with Python](http://travisgoodspeed.blogspot.com/2012/07/emulating-usb-devices-with-python.html)
+
+  ####Инструменты для анализа защищенности USB устройств
+* [Facedancer](http://int3.cc/products/facedancer21)
+* [Umap](https://github.com/nccgroup/umap)
+* [GoodFET](https://github.com/travisgoodspeed/goodfet) - Facedancer firmware
 
 ### Foscam камеры и их клоны
 * [GetMeCamTool](https://github.com/artemharutyunyan/getmecamtool) - Утилиты для pwnage и внедрения backdoor-a в удаленную камеру, сборщик/парсер прошивок для Foscam, сканер DynDNS сервиса Foscam
