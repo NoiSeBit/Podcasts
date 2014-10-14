@@ -17,3 +17,9 @@
 [HackAPP](https://hackapp.com/freedash)  
 [OpenSource iPhone Forensics tools](https://code.google.com/p/iphone-dataprotection/)  
 [OpenSource tool for iCloud backup extraction](https://github.com/hackappcom/iloot)
+
+###iOS Apps Research
+[Research Lessons](http://www.securitylearn.net/2012/02/12/penetration-testing-of-iphone-applications-part-1/) 
+[Damn Vulnerable iOS Application](http://damnvulnerableiosapp.com/)
+[MobileSubstrate Manual](http://iphonedevwiki.net/index.php/MobileSubstrate)
+
