@@ -5,10 +5,10 @@
 
 ### Участники:
 Александр Матросов ([@matrosov](http://twitter.com/matrosov)),
-Сергей Братус ([@hackappcom](http://twitter.com/hackappcom)),
-Родриго Бранко ([@abelenko](http://twitter.com/abelenko)),
-Сергей Шекян ([@abelenko](http://twitter.com/abelenko)),
-Антон Кочков ([@abelenko](http://twitter.com/abelenko))
+Сергей Братус ([@sergeybratus](http://twitter.com/sergeybratus)),
+Родриго Бранко ([@bsdaemon](http://twitter.com/bsdaemon)),
+Сергей Шекян ([@sshekyan](http://twitter.com/sshekyan)),
+Антон Кочков ([@akochkov](http://twitter.com/akochkov))
 
 
 ###H2HC (Hackers To Hackers Conference)
