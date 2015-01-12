@@ -12,7 +12,7 @@
 
 
 ###ZeroNights 2014: spy games in a big city
-[Conference website](http://2014.zeronights.org/)
-[Conference materials](http://2014.zeronights.org/conference-materials.html)
-[Conference videos](https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A/videos)
+* [Conference website](http://2014.zeronights.org/)
+* [Conference materials](http://2014.zeronights.org/conference-materials.html)
+* [Conference videos](https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A/videos)
 
