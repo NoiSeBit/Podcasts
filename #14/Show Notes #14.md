@@ -1,6 +1,6 @@
 [Noise Security Bit #14](http://noisebit.podster.fm/14)
 =====
-## o О PacSec, 31c3, S4 и атаках на SCADA
+## o PacSec, 31c3, S4 и атаках на SCADA
 
 
 ### Участники:
