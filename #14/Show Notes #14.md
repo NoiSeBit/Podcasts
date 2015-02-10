@@ -42,4 +42,4 @@
 
 ###Whitepapers
 - Безопасность абонентского оборудования телекоммуникационных сетей [pdf](http://www.dsec.ru/upload/medialibrary/589/589327eb24133e5c615fa11950340e05.pdf)
-- Компоненты DTM: тайные ключи к королевству АСУ ТП [pdf](http://www.dsec.ru/ipm-research-center/research/components_dtm_the_secret_keys_to_the_kingdom_of_apcs/)
+- Компоненты DTM: тайные ключи к королевству АСУ ТП [pdf](http://www.dsec.ru/upload/medialibrary/709/709c1893562b458a80df25e7bb36dd1f.pdf)
