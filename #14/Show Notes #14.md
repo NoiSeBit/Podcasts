@@ -32,5 +32,14 @@
 
 ###S4X15
 - [сайт конференции](http://www.cvent.com/events/s4x15-week/custom-17-6527b763e4b94569a3612510327b7278.aspx)
-- How to Fuzz 100+ Industrial DTM Components and Stay Alive [slides]
+- How to Fuzz 100+ Industrial DTM Components and Stay Alive [slides](http://www.slideshare.net/dark_k3y/presentation-s4x15), [video](http://www.digitalbond.com/blog/2015/02/04/s4x15-video-efficiently-testing-large-numbers-of-hart-dtms/)
 - A Mission Centric Approach to Securing Control Systems [slides]
+
+###ICSCorsair
+- Доклад с BlackHat USA [slides](http://www.slideshare.net/dark_k3y/icscorsair-how-i-will-pwn-your-erp-through-420-ma-current-loop), [video](http://www.youtube.com/watch?v=ETol2fme_Ek), [whitepaper](https://www.blackhat.com/docs/us-14/materials/us-14-Bolshev-ICSCorsair-How-I-Will-PWN-Your-ERP-Through-4-20mA-Current-Loop-WP.pdf)
+- ICSCorsair [github](http://github.com/Darkkey/ICSCorsair)
+- Заказ PCB [OSHPark](https://oshpark.com/shared_projects/zaJH0xKQ)
+
+###Whitepapers
+- Безопасность абонентского оборудования телекоммуникационных сетей [pdf](http://www.dsec.ru/upload/medialibrary/589/589327eb24133e5c615fa11950340e05.pdf)
+- Компоненты DTM: тайные ключи к королевству АСУ ТП [pdf](http://www.dsec.ru/ipm-research-center/research/components_dtm_the_secret_keys_to_the_kingdom_of_apcs/)
