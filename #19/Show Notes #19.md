@@ -6,7 +6,7 @@
 ### Участники:
 Александр Матросов ([@matrosov](http://twitter.com/matrosov)),
 Алексей Синцов ([@asintsov](http://twitter.com/asintsov)), 
-Кирил Ермаков ([@isox_xx](http://twitter.com/isox_xx))
+Александр Гантман ([@isox_xx](http://twitter.com/againsthimself))
 
 ### Темы для обсуждения:
 - Почему безопасность в аутомотив стала актуальна именно сейчас.
