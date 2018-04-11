@@ -135,7 +135,7 @@
 ##### Параллельные вычислительные системы
 * [WP: Параллельные вычислительные](http://ru.wikipedia.org/wiki/Параллельные_вычислительные_системы)
 * [WP: pthread](http://ru.wikipedia.org/wiki/pthread)
-* [WP: Pipeline](http://en.wikipedia.org/wiki/Pipeline \(computing\))
+* [WP: Pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing))
 
 
 ##### Обфускация чипов
