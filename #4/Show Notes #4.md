@@ -83,9 +83,9 @@
 ##### [PCI Express Protocol Analyzer](http://teledynelecroy.com/protocolanalyzer/protocoloverview.aspx?seriesid=445)
 
 ##### FPGA Devboards
-* [Xilinx Spartan 6 SP605](http://www.xilinx.com/products/boards-and-kits/EK-S6-SP605-G.htm)
-* [Xilinx Virtex 6 ML605](http://www.xilinx.com/products/boards-and-kits/EK-V6-ML605-G.htm)
-* [Xilinx Vivado Design Sweet](http://www.xilinx.com/products/design-tools/vivado/index.htm)
+* [Xilinx Spartan 6 SP605](https://www.xilinx.com/products/boards-and-kits/ek-s6-sp605-g.html)
+* [Xilinx Virtex 6 ML605](https://www.xilinx.com/products/boards-and-kits/ek-v6-ml605-g.html)
+* [Xilinx Vivado Design Suite](http://www.xilinx.com/products/design-tools/vivado/index.htm)
 * [Xilinx Chipscope Pro](http://www.xilinx.com/tools/cspro.htm)
 * [Terasic DE0-nano](http://www.terasic.com.tw/cgi-bin/page/archive.pl?No=593) (Рекомендуем!!!)
 * [Microsemi Igloo 2 Evaluation Kit](http://www.microsemi.com/products/fpga-soc/design-resources/dev-kits/igloo2/igloo2-evaluation-kit) (Рекомендуем!!!)
@@ -143,7 +143,7 @@
 
 ##### Хакинг Чипов
 * Доклад: Olivier Thomas ([@reivilo_t](http://twitter.com/reivilo_t)) [Hardware Reverse-engineering Tools (REC0N 2013)](http://recon.cx/2013/schedule/events/44.html)
-* Доклад: Dmitry Nedospasov ([@nedos](https://twitter.com/nedos)) [Security of the IC Backside (30c3)](http://youtu.be/wmv7tu7FSW0)
+* Доклад: Dmitry Nedospasov ([@nedos](https://twitter.com/nedos)) [Security of the IC Backside (30c3)](http://youtu.be/Gt6VyuLZBww)
 * Доклад: Chris Tarnovsky ([@semiconduktor](https://twitter.com/semiconduktor)) [Semiconductor Security Awareness Today and Yesterday (Blackhat 2010)](http://youtu.be/WXX00tRKOlw)
 * [BBC Panorama - Murdoch’s TV Pirates](http://www.bbc.co.uk/programmes/b01dlvbm)
 * Литература: [Murdoch’s Pirates](http://amzn.com/B009VA1NVU)
