@@ -1,4 +1,4 @@
-[Noise Security Bit #6](http://noisebit.podster.fm/7)
+[Noise Security Bit #7](http://noisebit.podster.fm/7)
 =====
 ## о конференции Positive Hack Days v4.0
 
