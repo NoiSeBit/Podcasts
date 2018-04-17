@@ -10,7 +10,7 @@
 Никита Абдуллин ([@0xABD](https://twitter.com/0xABD)) 
 Александр Матросов ([@matrosov](http://twitter.com/matrosov))
 
-###скачать: [https://noisebit.podster.fm/23](https://noisebit.podster.fm/23)
+### скачать: [https://noisebit.podster.fm/23](https://noisebit.podster.fm/23)
 
 ### Темы для обсуждения:
 - Почему о багах в CPU и микроархитктуре мы стали громко говорить только в прошлом году на волне Spectre/Meltdown?
