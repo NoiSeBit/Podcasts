@@ -4,11 +4,9 @@
 
 
 ### Участники:
-Дмитрий Олексюк ([@d_olex](http://twitter.com/d_olex)), 
 Никита Тараканов ([NTarakanov](https://twitter.com/NTarakanov)), 
 Артем Шишкин ([@honorary_bot](https://twitter.com/honorary_bot)), 
 Макс Горячий ([@h0t_max](https://twitter.com/h0t_max)), 
-Дмитрий Скляров ([@_Dmit](https://twitter.com/_Dmit)), 
 Никита Абдуллин ([@0xABD](https://twitter.com/0xABD)) 
 Александр Матросов ([@matrosov](http://twitter.com/matrosov))
 
