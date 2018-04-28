@@ -21,7 +21,8 @@
 - Что можно сказать о патчах процессоров, ОС и компиляторах для предотвращения этих уязвимостей?  
 
 ### Что почитать и посмотреть по теме?
-- Spectre and  Meltdown P0([link](https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html)) [link](https://meltdownattack.com/) 
+- Spectre and  Meltdown P0 ([link](https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html)) [link](https://meltdownattack.com/) 
+- Exploiting Branch Target Injection [link](https://drive.google.com/file/d/1caH71xMYbkB3q-HCkzsMhVK1_mWjz0yw/view)
 - "The Pentium Chronicles" book [link](https://www.goodreads.com/book/show/785396.The_Pentium_Chronicles)
 - "Design of Digital Circuits" - ETH Zürich Spring 2018 [video](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_QedyPWtRmFUJ2F8DdYP7l)
 - "Microarchitectural Incontinence - You would leak too if you were so fast!" by Daniel Gruss [video](https://www.youtube.com/watch?v=cAWmNp3Ukqk)
